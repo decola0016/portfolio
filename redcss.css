@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+
+/*UIの色*/
+.ui-background{
+	background-color: #d01118;
+}
+
+/* ̐●の色 */
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.bx-wrapper .bx-pager.bx-default-pager a:focus {
+  background: #d01118;
+}
