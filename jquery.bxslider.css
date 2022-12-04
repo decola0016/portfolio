@@ -201,8 +201,9 @@ h5:before {
 }
 .bx-wrapper img {
   max-width: 100%;
-padding-top: 80px;
+ padding: 0;
   display: block;
+  height: 460px;
 
 }
 .bxslider {
